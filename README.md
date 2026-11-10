@@ -65,21 +65,27 @@ The project includes:
 ```text
 Software_Testing_Portfolio/
 │
+├── Test_Plan/
+│   └── Test_Plan.md
+│
+├── Test_Case_Design/
+│   ├── Login_Test_Cases_Reviewed.xlsx
+│   ├── Products_Test_Cases.xlsx
+│   ├── Shopping_Cart_Test_Cases_Reviewed.xlsx
+│   ├── Checkout_Test_Cases_Reviewed.xlsx
+│   └── Logout_Test_Cases_Reviewed.xlsx
+│
 ├── Automation/
 │   ├── tests/
-│   │   ├── test_login.py
-│   │   ├── test_products.py
-│   │   ├── test_cart.py
-│   │   ├── test_checkout.py
-│   │   └── test_logout.py
 │   └── requirements.txt
 │
 ├── Screenshots/
-├── Test_Case_Design/
 ├── Test_Execution/
 │   └── Test_Execution_Summary.md
+│
 ├── Test_Reports/
 │   └── automation_report.html
+│
 ├── Defect_Reports/
 │   └── Defect_Report.md
 │
