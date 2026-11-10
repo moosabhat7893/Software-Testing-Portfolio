@@ -168,6 +168,6 @@ One automated test encountered a Selenium TimeoutException during consolidated e
 
 ## 11. Conclusion
 
-This project provided practical experience in software testing, including test planning, manual test execution, test case design, Selenium automation, Pytest execution and HTML reporting.
+This project provided practical experience in software testing, including test planning, manual test execution,test case design,Selenium automation,Pytest execution and HTML reporting.
 
 The project demonstrates the application of software testing techniques to an online shopping application and provides documented evidence of the testing activities performed.
